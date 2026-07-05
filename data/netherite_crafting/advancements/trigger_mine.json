@@ -1,0 +1,11 @@
+{
+  "parent": "netherite_crafting:root",
+  "criteria": {
+    "mine_block": {
+      "trigger": "minecraft:block_mined"
+    }
+  },
+  "rewards": {
+    "function": "netherite_crafting:random_drop"
+  }
+}
